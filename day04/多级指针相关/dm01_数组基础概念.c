@@ -3,7 +3,7 @@
 #include <string.h>
 #include <stdio.h>
 
-void main11()
+void main()
 {
 	int a[] = {1, 2};
 	int b[100] = {1, 3};
@@ -121,7 +121,7 @@ void main14()
 //定义数组指针变量的第三种方法
 //前2种方法 通过类型定义变量 比较麻烦
 
-void main116()
+void main()
 {
 	//int [][5]
 	int (*pMyArray)[5]; //直接定义一个指向数组的 数组指针变量

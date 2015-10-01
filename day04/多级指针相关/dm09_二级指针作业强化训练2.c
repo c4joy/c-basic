@@ -269,7 +269,7 @@ void main93()
 
 
 
-void main94()
+void main()
 {
 	int ret = 0, i = 0;
 	char *p1 = "abcdef,acccd,";
